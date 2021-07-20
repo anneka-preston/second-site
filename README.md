@@ -1,1 +1,1 @@
-# second-site
+permalink: /index.html
